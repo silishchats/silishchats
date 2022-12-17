@@ -1,0 +1,3 @@
+[۲۰۲۲-۱۲-۱۷ ۰۶:۵۹:۲۴.۴۰۶] Establish VPN connection
+[۲۰۲۲-۱۲-۱۷ ۰۶:۵۹:۳۴.۴۱۱] SSL: ERR_TIMEOUT
+[۲۰۲۲-۱۲-۱۷ ۰۶:۵۹:۳۴.۴۳۸] Terminate VPN connection
